@@ -33,14 +33,13 @@
 I am a Full Stack Developer 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Blockchain and AI enthusiast.
 
-- 🔭 I’m currently working on my a freshman at IIITM, Gwalior.
+- 🔭 I’m currently a freshman at IIITM, Gwalior.
 - 🌱 I’m currently exploring **Deep Neural Networks**.
 - 👯 I’m looking to collaborate on *Open Source Projects*
-- 🤔 I’m looking for help with ...
 - 💬 I am fast to respond and would love to grow my network.
 - 📫 How to reach me: You can DM me on [![Linkedin Badge](https://img.shields.io/badge/LinekIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sudip-banerjee-300b691bb/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Steins;Gate is my favourite Anime.
 
 
 ***
