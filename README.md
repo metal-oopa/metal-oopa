@@ -87,5 +87,6 @@ I am a Full Stack Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metal-oopa&layout=compact&theme=vision-friendly-dark&hide_border=true)](#!)
 
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=metal-oopa&theme=redical&hide_border=true)](#!)
+ 
 </div>
