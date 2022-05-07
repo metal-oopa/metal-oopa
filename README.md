@@ -80,12 +80,12 @@ I am a Full Stack Developer
 <div id="github_stats" align="center">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=metal-oopa&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000&ring=DD2727&currStreakNum=00DD3DC2&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=metal-oopa&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000&ring=DD2727&currStreakNum=00DD3DC2&background=000000)](#!)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metal-oopa&count_private=true&show_icons=true&theme=radical&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metal-oopa&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metal-oopa&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metal-oopa&layout=compact&theme=vision-friendly-dark&hide_border=true)](#!)
 
 
 </div>
