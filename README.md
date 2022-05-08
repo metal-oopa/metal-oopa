@@ -41,6 +41,8 @@
 - #### 😄 Pronouns: He/Him
 - #### ⚡ Favorite Anime: Steins;Gate
 
+### 🎺 Vibing to:
+[![Spotify](https://novatorem-rbkjoiojv-sudip5banerjee1974-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/7jctaapw9v95ifztxup8twk6c)
 
 ***
 ### 🛠️ Languages and Tools :
