@@ -3,7 +3,7 @@
 
  -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
  
   <div id="badges">
    <a href="https://www.linkedin.com/in/sudip-banerjee-300b691bb/">
@@ -30,11 +30,10 @@
 <!-- <div align="center"> Old GIF
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
+### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Blockchain and AI enthusiast.
 
 ***
 ###  👨🏻‍💻 About Me :
-
-#### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Blockchain and AI enthusiast.
 
 - #### 🔭 I’m currently a freshman at IIITM, Gwalior.
 - #### 🌱 I’m currently exploring **Deep Neural Networks**.
