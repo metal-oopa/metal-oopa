@@ -14,7 +14,9 @@
    </a>
  </div>
  
- <img src="https://komarev.com/ghpvc/?username=metal-oopa&style=flat-square&color=red" alt="profile-views"/>
+ <div>
+  <img src="https://komarev.com/ghpvc/?username=metal-oopa&style=flat-square&color=red" alt="profile-views"/>
+ </div>
  
  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="300"/>
  
