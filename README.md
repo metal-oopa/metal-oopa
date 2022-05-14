@@ -30,9 +30,11 @@
 <!-- <div align="center"> Old GIF
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
-### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Blockchain and AI enthusiast.
 
 ***
+
+### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Blockchain and AI enthusiast.
+
 ###  👨🏻‍💻 About Me :
 
 - #### 🔭 I’m currently a freshman at IIITM, Gwalior.
