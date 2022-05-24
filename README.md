@@ -91,7 +91,7 @@
 
 [![Sudip's GitHub stats](https://github-readme-stats.vercel.app/api?username=metal-oopa&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
 
-[![Sudip's github activity graph](https://activity-graph.herokuapp.com/graph?username=metal-oopa&theme=redical&hide_border=true)](#!)
+[![Sudip's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=metal-oopa&theme=redical&hide_border=true)](#!)
 
 
 </div>
