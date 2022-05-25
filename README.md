@@ -12,6 +12,9 @@
    <a href="https://twitter.com/Metal_Oopa_">
      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a>
+   <a href="https://portfolio-metaloopa.vercel.app">
+     <img src="https://img.shields.io/static/v1?label=Portfolio&color=brightgreen&message=Website" alt="Website Badge"/>
+   </a>
  </div>
  
  <div>
