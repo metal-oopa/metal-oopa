@@ -9,11 +9,11 @@
    <a href="https://www.linkedin.com/in/sudip-banerjee-300b691bb/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
+   <a href="https://portfolio-metaloopa.vercel.app">
+     <img src="https://img.shields.io/badge/Personal-Website-brightgreen/?style=for-the-badge&logo=appveyor" alt="Website Badge"/>
+   </a>
    <a href="https://twitter.com/Metal_Oopa_">
      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-   </a>
-   <a href="https://portfolio-metaloopa.vercel.app">
-     <img src="https://img.shields.io/static/v1?label=Portfolio&color=brightgreen&message=Website" alt="Website Badge"/>
    </a>
  </div>
  
