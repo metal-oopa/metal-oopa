@@ -42,7 +42,7 @@
 - #### 🌱 I’m currently exploring **Deep Neural Networks**.
 - #### 👯 I’m looking to collaborate on *Open Source Projects*
 - #### 💬 I am fast to respond and would love to grow my network.
-- #### 📫 How to reach me: You can DM me on [![Linkedin Badge](https://img.shields.io/badge/LinekIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sudip-banerjee-300b691bb/)
+- #### 📫 How to reach me: You can DM me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sudip-banerjee-300b691bb/)
 - #### 🏢 *Open to opportunities*
 - #### 😄 Pronouns: He/Him
 - #### ⚡ Favorite Anime: Steins;Gate
