@@ -34,7 +34,7 @@
 
 ***
 
-### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Blockchain and AI enthusiast.
+### I am a Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Blockchain Developer. A huge AI enthusiast.
 
 ###  👨🏻‍💻 About Me :
 
