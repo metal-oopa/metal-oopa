@@ -40,7 +40,7 @@
 
  <a href="https://api.daily.dev/devcards/5449f707a24746e2ad4976e4dc6da839.png?r=9eo" target="_blank">
     <img
-      width="360"
+      width="320"
       align="right"
       src="https://raw.githubusercontent.com/metal-oopa/metal-oopa/main/devcard.svg"
     />
