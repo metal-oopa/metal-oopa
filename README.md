@@ -22,8 +22,6 @@
  </div>
  
  ***
- 
- <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="300"/>
 </div>
 <div align="center">
   <h1>
@@ -34,9 +32,19 @@
 
 ***
 
+<div align="left">
+
 ### I am a Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Blockchain Developer. A huge AI enthusiast.
 
 ###  👨🏻‍💻 About Me :
+
+ <a href="https://api.daily.dev/devcards/5449f707a24746e2ad4976e4dc6da839.png?r=9eo" target="_blank">
+    <img
+      width="360"
+      align="right"
+      src="https://raw.githubusercontent.com/metal-oopa/metal-oopa/main/devcard.svg"
+    />
+  </a>
 
 - #### 🔭 I’m currently a freshman at IIITM, Gwalior.
 - #### 🌱 I’m currently exploring **Deep Neural Networks**.
@@ -46,6 +54,8 @@
 - #### 🏢 *Open to opportunities*
 - #### 😄 Pronouns: He/Him
 - #### ⚡ Favorite Anime: Steins;Gate
+
+</div>
 
 ### 🎺 Vibing to:
 [![Spotify](https://novatorem-rbkjoiojv-sudip5banerjee1974-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/7jctaapw9v95ifztxup8twk6c)
