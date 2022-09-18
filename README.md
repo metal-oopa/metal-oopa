@@ -46,7 +46,7 @@
     />
   </a>
 
-- #### 🔭 I’m currently a freshman at IIITM, Gwalior.
+- #### 🔭 I’m currently a sophomore at IIITM, Gwalior.
 - #### 🌱 I’m currently exploring **Deep Neural Networks**.
 - #### 👯 I’m looking to collaborate on *Open Source Projects*
 - #### 💬 I am fast to respond and would love to grow my network.
