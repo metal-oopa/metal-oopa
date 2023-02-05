@@ -9,8 +9,6 @@ on:
   push:
     branches:
       - main
-  schedule:
-    - cron: "0 5 31 2 *"
 
 jobs:
   devcard:
