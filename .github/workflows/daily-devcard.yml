@@ -9,7 +9,8 @@ on:
   push:
     branches:
       - main
-
+  schedule:
+    - cron: "* * * * *"
 jobs:
   devcard:
     runs-on: ubuntu-latest
