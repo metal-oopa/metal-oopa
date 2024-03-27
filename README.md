@@ -4,7 +4,7 @@
  -->
  
 <div id="header" align="center">
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
  
   <div id="badges">
    <a href="https://www.linkedin.com/in/sudip-banerjee-300b691bb/" target="_blank">
@@ -57,8 +57,6 @@
 
 </div>
 
-### 🎺 Vibing to:
-[![Spotify](https://novatorem-rbkjoiojv-sudip5banerjee1974-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/7jctaapw9v95ifztxup8twk6c)
 
 ***
 ### 🛠️ Languages and Tools :
@@ -117,9 +115,5 @@
 
 [![Sudip's GitHub stats](https://github-readme-stats.vercel.app/api?username=metal-oopa&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
 
-[![Sudip's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=metal-oopa&theme=redical&hide_border=true)](#!)
-
 
 </div>
-
-<!--START_SECTION:activity-->
